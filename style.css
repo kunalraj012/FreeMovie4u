@@ -35,6 +35,22 @@ header {
 h1{
   color: var(--primary-color);
 }
+.navbar{
+  
+
+}
+.navbar nav ul{
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  width: 40px;
+}
+ul li{
+  list-style: none;
+}
+ul li a{
+  text-decoration: none;
+}
 
 .search {   
   /* background-color: transparent;9+. */
